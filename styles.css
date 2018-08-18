@@ -1,8 +1,20 @@
 /* add your CSS here */
-body{width: 300px; padding: 10px;
-  box-shadow: 5px 5px #80808030;
-  border: 1px solid black;
-  border-radius: 25px;}
-#des {border: 1px solid grey;padding:10px}
-img{width:300px}
-.italic{font-style: italic;}
+body{
+    width: 300px; padding: 10px;
+    box-shadow: 5px 5px #80808030;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+#des{
+    border: 1px solid grey;
+    padding:10px;
+}
+img{
+    width:300px
+}
+.italic{
+    font-style: italic;
+}
+ul {
+  list-style: none;
+}
